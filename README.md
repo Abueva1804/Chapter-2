@@ -6,4 +6,6 @@ The core of the app is the MaterialApp, which gives the app its structure, and w
 
 ---
 ![code](https://github.com/user-attachments/assets/54e35682-c61e-4b8a-bf58-f7cdab972810)
+![helloworld](https://github.com/user-attachments/assets/8c27f72d-95c5-468a-a893-f20f807d8946)
+
 
